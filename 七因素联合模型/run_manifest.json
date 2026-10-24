@@ -1,0 +1,35 @@
+{
+  "analysis_version": "joint-effect-v2.1-2016-2022-baseline-evidence-calibrated",
+  "simulation_seed": 20260921,
+  "simulation_draws": 100000,
+  "authoritative_source": "C:\\Users\\xc\\Documents\\Codex\\2026-10-13\\wo\\work\\manuscript\\trend_revision\\run_trend_monte_carlo.py",
+  "authoritative_source_sha256": "14db3704f94231ef7090bbebeb52a5ce1cfda91432c362e6749de502ae8fa3a7",
+  "authoritative_results_source": "C:\\Users\\xc\\Documents\\Codex\\2026-10-13\\wo\\outputs\\manuscript_revision\\analysis_results.json",
+  "authoritative_results_source_sha256": "ef8b73f4f65579064dffa50da696c8d9344aeca2e158d9eae6b05d7b7e0082fc",
+  "outputs_sha256": {
+    "analysis_config.json": "3d70bb0753f969d587dfbcc42161428096efc251700771e40d73acf18788b187",
+    "analysis_results.json": "e701c674ea4966fd51815f156548d237d333b96da10154f4dea2199b439ffc27",
+    "baseline_models.csv": "f1d7091d140247a3d38cb1b55bf9636dac816c710fa5db52b1d7eb5d8d450fbc",
+    "factor_inputs.csv": "89e8c039bc243deadbcb2aac965edc66a69ed89383cb1e420260edbda7099521",
+    "joint_scenarios.csv": "0bbd0235b74e5c8cc08ae0b39f7423cd6bec9942f87a7fa59357d915e2bf77df",
+    "overlap_constraints.csv": "ea1a96712c9e2342a1b4322803dde6d9a2cbe722967790ca4a28cb68bdc6d0fc",
+    "pattern_probabilities.csv": "a34a553c3536143f6a6f065a090a2db10b6cb7b4307ed72f2d0bf96b1def2276",
+    "shapley_contributions.csv": "cf192d31e7ebb7fda3fa0b01e83802680214007d1182510efe634fcfcf0fb2d9",
+    "treatment_only_reference.csv": "296d3e19eca9c0d9c4039c242c62a295df37b5e7e17e9b672786c547db394cbb",
+    "validation_report.json": "674a2dfe41da4a61c689c4db1309d21eff6424cb6b8d533dd09bfc705fa85d9c",
+    "README.md": "28301bdebd5a312082ccfa1e6e37dd83a3208bbff24800603fcd143522b9a945",
+    "joint_effect_monte_carlo_evidence_calibrated.py": "218ffccbe64d23e8879c345febb16e06119384e114f1ea86ca6783af3676ca1f",
+    "build_evidence_calibrated_workbook.mjs": "055bd3447d0c8ffabe38847851abb97e0f1c6487af5c738f7d7d301c024cf467",
+    "evidence_records/conditional_overlap_evidence.csv": "f683aa6bedede3d1e10f1de224f79d1b4c723c13af709ca4083b3db7c010f808",
+    "evidence_records/diagnostic_residual_evidence.csv": "30d285d24e7a8f45bba380224939d8fe61eb1b7a38ac48d4bb14b09d687ad347",
+    "evidence_records/search_log.csv": "952fb0ec80f2efaaf6bb436a5b23fb9d72dd2fe7e43cb8beb8737ceb158eb104",
+    "evidence_records/parameter_decisions.csv": "b3a7d5963df85dc22eee336de3e38c58186dfab386164f2d9cff05b303425457",
+    "evidence_records/README.md": "7b0816c3ed5a8396bfefb7f2d39a9342bb1268a1ba1c1b19c5aca25b44e93ed5"
+  },
+  "final_workbook": {
+    "file": "七因素综合效应蒙特卡洛结果_证据校准版.xlsx",
+    "bytes": 103066,
+    "sha256": "84e821ebc57f0751a5b7c9bcda9e482221efbd15b15aef9ebe396fa43f82bebb",
+    "sheets": 9
+  }
+}

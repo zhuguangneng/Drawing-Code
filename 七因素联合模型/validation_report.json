@@ -1,0 +1,110 @@
+{
+  "pattern_probability_sum": 1.0,
+  "minimum_pattern_probability": 0.0,
+  "conditional_probability_min": 0.0,
+  "conditional_probability_max": 0.8586666666666666,
+  "max_abs_marginal_error": 1.1102230246251565e-16,
+  "marginal_errors": {
+    "A": 2.7755575615628914e-17,
+    "D": 0.0,
+    "H": 1.1102230246251565e-16,
+    "P": 0.0,
+    "C": 0.0,
+    "T": 0.0
+  },
+  "max_abs_pair_error": 1.1102230246251565e-16,
+  "pair_errors": {
+    "AT": 2.7755575615628914e-17,
+    "DT": 0.0,
+    "HT": 1.1102230246251565e-16,
+    "CT": 0.0
+  },
+  "all_reported_scenarios_constraint_max_abs_error": 2.220446049250313e-16,
+  "all_reported_scenarios_minimum_pattern_probability": 0.0,
+  "all_reported_scenarios_conditional_probability_min": 0.0,
+  "all_reported_scenarios_conditional_probability_max": 1.0,
+  "treatment_only_reduction_max_abs_error": 0.0,
+  "neutral_effect_max_abs_error": 0.0,
+  "fixed_distribution_full_coalition_max_abs_error": 0.0,
+  "additive_overlap_invariance_max_abs_error": 0.0,
+  "additive_minimum_pattern_rr": 0.7175390888234408,
+  "additive_nonpositive_pattern_draw_count": 0,
+  "additive_nonpositive_pattern_draw_percent": 0.0,
+  "shapley_additivity_max_abs_error": 2.2737367544323206e-13,
+  "authoritative_baseline_summary_errors": {
+    "lower_2_5": 1.1368683772161603e-13,
+    "median": 0.0,
+    "upper_97_5": 0.0
+  },
+  "authoritative_baseline_summary_max_abs_error": 1.1368683772161603e-13,
+  "baseline_first_three_float_hex": [
+    "0x1.e6d2800ff41c1p+9",
+    "0x1.f1dde6d9b40ebp+9",
+    "0x1.d3c30e8b50d2dp+9"
+  ],
+  "monte_carlo_block_summaries": [
+    {
+      "block": 1,
+      "lower_2_5": 129.5502008793463,
+      "median": 240.3862012133174,
+      "upper_97_5": 391.7678098176471
+    },
+    {
+      "block": 2,
+      "lower_2_5": 132.47845970322012,
+      "median": 240.4396840767157,
+      "upper_97_5": 392.12229892148014
+    },
+    {
+      "block": 3,
+      "lower_2_5": 132.5178448741683,
+      "median": 239.49739627842348,
+      "upper_97_5": 386.5521761661836
+    },
+    {
+      "block": 4,
+      "lower_2_5": 129.80752682719225,
+      "median": 239.0700127804326,
+      "upper_97_5": 392.0765803146981
+    },
+    {
+      "block": 5,
+      "lower_2_5": 131.94545258333085,
+      "median": 240.6798078896665,
+      "upper_97_5": 393.51791585792773
+    },
+    {
+      "block": 6,
+      "lower_2_5": 130.24322525645587,
+      "median": 239.1884366014073,
+      "upper_97_5": 388.33247130044316
+    },
+    {
+      "block": 7,
+      "lower_2_5": 133.03276459352588,
+      "median": 241.08058559030513,
+      "upper_97_5": 394.3298127802076
+    },
+    {
+      "block": 8,
+      "lower_2_5": 131.7730138412407,
+      "median": 240.57392724889746,
+      "upper_97_5": 392.4110920796998
+    },
+    {
+      "block": 9,
+      "lower_2_5": 130.41913153282766,
+      "median": 239.57867383011273,
+      "upper_97_5": 393.7590340388062
+    },
+    {
+      "block": 10,
+      "lower_2_5": 128.57608116258868,
+      "median": 238.27134184966462,
+      "upper_97_5": 390.7008141271155
+    }
+  ],
+  "all_scenarios_finite": true,
+  "all_wartime_rr_positive": true,
+  "status": "PASS"
+}
