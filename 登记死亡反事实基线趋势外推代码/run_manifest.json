@@ -1,0 +1,81 @@
+{
+  "analysis_version": "trend-registration-v1.3-2016-2022-baseline",
+  "created_at_utc": "2026-10-21T10:19:33.265036+00:00",
+  "workspace_relative_code": "work/manuscript/trend_revision/run_trend_monte_carlo.py",
+  "output_code_snapshot": "trend_extrapolation_monte_carlo.py",
+  "run_command": "python work/manuscript/trend_revision/run_trend_monte_carlo.py",
+  "python_version": "3.12.14",
+  "python_implementation": "CPython",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "draws": 100000,
+  "seed": 20260921,
+  "code_sha256": "14DB3704F94231EF7090BBEBEB52A5CE1CFDA91432C362E6749DE502AE8FA3A7",
+  "files": {
+    "analysis_results.json": {
+      "sha256": "EF8B73F4F65579064DFFA50DA696C8D9344AECA2E158D9EAE6B05D7B7E0082FC",
+      "bytes": 71858
+    },
+    "historical_registered_deaths.csv": {
+      "sha256": "1474BBF109CEAC0603238D28DA3748CCBC8099AE9521D0B16C157E41FB78A03C",
+      "bytes": 654,
+      "data_rows": 7
+    },
+    "rolling_backtest.csv": {
+      "sha256": "D2165F3925F5AFE92B019414417273A438612DD16A87C6A87BD15736F98859A9",
+      "bytes": 639,
+      "data_rows": 5
+    },
+    "main_six_factor_results.csv": {
+      "sha256": "7A45F36CC4BE7E50882F31441C61515F79FB3802D1DE06D090311734DE964C91",
+      "bytes": 2883,
+      "data_rows": 6
+    },
+    "sensitivity_fixed_effect.csv": {
+      "sha256": "3E0BA325E1E2FE2DD981DB1B1EEF5A6B4437898E1CDB6AEF0D64103423B28A61",
+      "bytes": 1880,
+      "data_rows": 6
+    },
+    "sensitivity_f.csv": {
+      "sha256": "D6BD8A9AC59EE9F5EFBC77BF727FEC0250F1C02A5C61E4A7B5CA83D7C765A447",
+      "bytes": 5072,
+      "data_rows": 21
+    },
+    "sensitivity_g.csv": {
+      "sha256": "5E192A6B8F8DFEB967C1911ADE6696FECB5FA2A9476B0D16DD885A20A35F74D7",
+      "bytes": 5622,
+      "data_rows": 24
+    },
+    "sensitivity_particulate_concentration.csv": {
+      "sha256": "4A5072ABC2339674ED03DC7A443EB5B07AB689FEC6805FCB17220F4CF0372942",
+      "bytes": 2771,
+      "data_rows": 6
+    },
+    "baseline_model_summaries.csv": {
+      "sha256": "AE6A382C502704962C2AF3F0ADEB2600F65D51A7410A05402014B517E347837A",
+      "bytes": 552,
+      "data_rows": 4
+    },
+    "sensitivity_baseline_models.csv": {
+      "sha256": "C9EBC215E3F0AC0978B53EC47A17A53BD80822C5FA40E93FD80FD33CC7A11A0A",
+      "bytes": 6471,
+      "data_rows": 24
+    },
+    "factor_inputs.csv": {
+      "sha256": "AC095933D4A5E220BF160DED70FA5685B1E45BDA6038C05594DB73E021CA32EC",
+      "bytes": 1722,
+      "data_rows": 6
+    },
+    "trend_extrapolation_monte_carlo.py": {
+      "sha256": "14DB3704F94231EF7090BBEBEB52A5CE1CFDA91432C362E6749DE502AE8FA3A7",
+      "bytes": 35064
+    },
+    "analysis_config.json": {
+      "sha256": "D3C421C21B63E5C2B78A258958E91A15F3D9282BC2A870755CE846A748B3E286",
+      "bytes": 5111
+    },
+    "validation_report.json": {
+      "sha256": "D8E7545695643346DB5D8BE879977E20A3C655797088DB6C2BDE89C5924C59DD",
+      "bytes": 1044
+    }
+  }
+}

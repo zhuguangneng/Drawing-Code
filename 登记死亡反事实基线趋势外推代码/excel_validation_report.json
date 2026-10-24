@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "trend_version": "trend-registration-v1.3-2016-2022-baseline",
+  "historical_years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "registered_deaths": [
+    348,
+    474,
+    566,
+    548,
+    539,
+    777,
+    915
+  ],
+  "baseline_median": 997.2276235945798,
+  "joint_additional_median": 239.83673163704353,
+  "formula_error_scan": "0 entries",
+  "workbooks": {
+    "outputs/step2/逐因素建模参数表.xlsx": {
+      "bytes": 218577,
+      "sha256": "34facdfd424a562e67fc2bfcbb17f89f79a2957e69e10f8ef7279d9203211f99",
+      "sheets": []
+    },
+    "outputs/cancer_specific_model/癌症特异性死亡逐因素蒙特卡洛结果.xlsx": {
+      "bytes": 164315,
+      "sha256": "befa450e19080d26e0d4bd94b5646654a5585498f8a69cbb9e783330232cb3bf",
+      "sheets": []
+    },
+    "outputs/joint_effect_model_evidence_calibrated/七因素综合效应蒙特卡洛结果_证据校准版.xlsx": {
+      "bytes": 103066,
+      "sha256": "84e821ebc57f0751a5b7c9bcda9e482221efbd15b15aef9ebe396fa43f82bebb",
+      "sheets": []
+    }
+  }
+}

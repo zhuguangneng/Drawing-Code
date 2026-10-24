@@ -1,0 +1,23 @@
+{
+  "validation_version": "1.1",
+  "validated_at_utc": "2026-10-21T10:19:33.252048+00:00",
+  "checks": {
+    "six_unique_factors": true,
+    "all_numeric_outputs_finite": true,
+    "baseline_interval_ordered_positive": true,
+    "all_probability_fields_valid": true,
+    "historical_input_count_seven": true,
+    "rolling_backtest_fold_count_five": true,
+    "single_registration_scale": true,
+    "single_factor_reference_not_summed": true,
+    "full_precision_factor_inputs": true,
+    "deterministic_rerun": true
+  },
+  "all_checks_passed": true,
+  "deterministic_rerun_basis": "The analysis was executed twice with seed 20260921; SHA-256 hashes of all JSON/CSV/README outputs were identical.",
+  "limits": [
+    "Seven historical years are available.",
+    "Rolling temporal validation has five folds; the first uses two observations for two fitted coefficients.",
+    "No raw Monte Carlo draw file is retained; reproducibility is provided by fixed code, inputs, seed, summaries and deterministic output hashes."
+  ]
+}

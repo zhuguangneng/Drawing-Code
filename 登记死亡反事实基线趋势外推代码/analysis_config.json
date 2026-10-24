@@ -1,0 +1,168 @@
+{
+  "analysis_version": "trend-registration-v1.3-2016-2022-baseline",
+  "estimand_zh": "2016—2022年战前登记趋势延续条件下，2023年加沙反事实登记口径癌症死亡期望数及六因素分别作用时的情景增量",
+  "outcome": "癌症特异性死亡/癌症特异性生存",
+  "baseline_model": {
+    "equation": "log(mu_t) = alpha + beta*(year-2016) + log(population_t)",
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "target_year": 2023,
+    "target_population": 2226544,
+    "covariance": "Pearson-scaled Poisson coefficient covariance; alpha and beta jointly sampled",
+    "extra_poisson_count_noise": false
+  },
+  "simulation": {
+    "draws": 100000,
+    "seed": 20260921,
+    "duration_months": 3,
+    "g_primary": 1.0,
+    "uncertainty_interval": "2.5th and 97.5th Monte Carlo percentiles",
+    "factors_combined": false
+  },
+  "factor_inputs": [
+    {
+      "code": "A",
+      "factor_en": "Barriers to health services accessibility",
+      "factor_zh": "医疗服务可及性障碍",
+      "model": "random",
+      "hr": 1.12659694615175,
+      "lower": 0.938382545820733,
+      "upper": 1.35256211310746,
+      "i2": 84.1,
+      "f_main": 0.2,
+      "f_low": 0.18,
+      "f_high": 0.22,
+      "fixed_hr": 0.944145613660327,
+      "fixed_lower": 0.901868410767962,
+      "fixed_upper": 0.988404659871586,
+      "effect_type": "direct"
+    },
+    {
+      "code": "D",
+      "factor_en": "Delayed diagnosis",
+      "factor_zh": "诊断延迟",
+      "model": "random",
+      "hr": 1.40082399155868,
+      "lower": 1.07727003955917,
+      "upper": 1.82155614030571,
+      "i2": 54.9,
+      "f_main": 0.75,
+      "f_low": 0.5,
+      "f_high": 1.0,
+      "fixed_hr": 1.31514774947357,
+      "fixed_lower": 1.17326023568769,
+      "fixed_upper": 1.47419434353505,
+      "effect_type": "direct"
+    },
+    {
+      "code": "H",
+      "factor_en": "Health workforce loss or shortage",
+      "factor_zh": "医务人员损失或短缺",
+      "model": "random",
+      "hr": 1.01302594039352,
+      "lower": 0.941311605866301,
+      "upper": 1.0902038703387,
+      "i2": 73.8,
+      "f_main": 0.7,
+      "f_low": 0.5,
+      "f_high": 0.9,
+      "fixed_hr": 1.01333526619584,
+      "fixed_lower": 0.98544352878683,
+      "fixed_upper": 1.04201644408822,
+      "effect_type": "direct"
+    },
+    {
+      "code": "P",
+      "factor_en": "Psychosocial stress",
+      "factor_zh": "心理社会压力",
+      "model": "random",
+      "hr": 1.23650966032884,
+      "lower": 1.018684077252,
+      "upper": 1.50091296627611,
+      "i2": 58.7,
+      "f_main": 0.8,
+      "f_low": 0.5,
+      "f_high": 0.94,
+      "fixed_hr": 1.21802482826318,
+      "fixed_lower": 1.0958531128707,
+      "fixed_upper": 1.35381691655658,
+      "effect_type": "direct"
+    },
+    {
+      "code": "E",
+      "factor_en": "Exposure to combustion smoke, coal dust or particulates",
+      "factor_zh": "燃烧烟雾、煤尘或颗粒物暴露",
+      "model": "random",
+      "hr": 1.4270702743758,
+      "lower": 1.07526525525956,
+      "upper": 1.89397877225693,
+      "i2": 98.7,
+      "f_main": 1.0,
+      "f_low": 1.0,
+      "f_high": 1.0,
+      "fixed_hr": 1.01289527620331,
+      "fixed_lower": 0.996933330590114,
+      "fixed_upper": 1.02911278926514,
+      "effect_type": "per10",
+      "delta_x_main": 4.1,
+      "delta_x_low": 0.5,
+      "delta_x_high": 7.2,
+      "analysis_role_zh": "探索性分析",
+      "analysis_note_zh": "主增量来自2023年10月单月监测值；不能代表11—12月，第四季度外推存在月际变化不确定性。"
+    },
+    {
+      "code": "C",
+      "factor_en": "Patient-provider communication barriers",
+      "factor_zh": "患者—医务人员沟通障碍",
+      "model": "fixed",
+      "hr": 1.3521517680129,
+      "lower": 0.978326692568816,
+      "upper": 1.86881786792485,
+      "i2": 0.0,
+      "f_main": 0.2993920972644377,
+      "f_low": 0.10030395136778116,
+      "f_high": 0.5486322188449848,
+      "fixed_hr": 1.3521517680129,
+      "fixed_lower": 0.978326692568816,
+      "fixed_upper": 1.86881786792485,
+      "effect_type": "direct",
+      "f_definition_zh": "低值=Very poor；主值=Very poor+Poor；高值=除Excellent和Fair外（Good+Poor+Very poor）"
+    }
+  ],
+  "historical_input_sources": [
+    {
+      "variable": "2016—2022年加沙登记癌症死亡数",
+      "source": "Palestinian Ministry of Health annual health and cancer mortality reports, 2016–2022",
+      "values": [
+        348,
+        474,
+        566,
+        548,
+        539,
+        777,
+        915
+      ]
+    },
+    {
+      "variable": "2016—2023年加沙年中人口",
+      "source": "Palestinian Central Bureau of Statistics mid-year population estimates",
+      "values": [
+        1828614,
+        1876666,
+        1932843,
+        1989970,
+        2047969,
+        2106745,
+        2166269,
+        2226544
+      ]
+    }
+  ]
+}

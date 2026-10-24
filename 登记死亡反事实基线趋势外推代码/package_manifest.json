@@ -1,0 +1,85 @@
+{
+  "version": "trend-registration-v1.3-2016-2022-baseline",
+  "files": {
+    "analysis_config.json": {
+      "bytes": 5111,
+      "sha256": "d3c421c21b63e5c2b78a258958e91a15f3d9282bc2a870755ce846a748b3e286"
+    },
+    "analysis_results.json": {
+      "bytes": 71858,
+      "sha256": "ef8b73f4f65579064dffa50da696c8d9344aeca2e158d9eae6b05d7b7e0082fc"
+    },
+    "baseline_model_summaries.csv": {
+      "bytes": 552,
+      "sha256": "ae6a382c502704962c2af3f0adeb2600f65d51a7410a05402014b517e347837a"
+    },
+    "excel_validation_report.json": {
+      "bytes": 1127,
+      "sha256": "af0e9112e8bf27a26785b1eb9e5f84005eb83fa54b4e866062d735de86f43f09"
+    },
+    "factor_inputs.csv": {
+      "bytes": 1722,
+      "sha256": "ac095933d4a5e220bf160ded70fa5685b1e45bda6038c05594db73e021ca32ec"
+    },
+    "historical_registered_deaths.csv": {
+      "bytes": 654,
+      "sha256": "1474bbf109ceac0603238d28da3748ccbc8099ae9521d0b16c157e41fb78a03c"
+    },
+    "main_six_factor_results.csv": {
+      "bytes": 2883,
+      "sha256": "7a45f36cc4be7e50882f31441c61515f79fb3802d1de06d090311734de964c91"
+    },
+    "README.md": {
+      "bytes": 2171,
+      "sha256": "a55b7eb45c2ac1ea2fc773b30e97028d3d0c56a669a673f141a974dc42c94083"
+    },
+    "rolling_backtest.csv": {
+      "bytes": 639,
+      "sha256": "d2165f3925f5afe92b019414417273a438612dd16a87c6a87bd15736f98859a9"
+    },
+    "run_manifest.json": {
+      "bytes": 2965,
+      "sha256": "762739f6a354dd85b077f265c38711a35637d85cbddb616f659510facc759a59"
+    },
+    "sensitivity_baseline_models.csv": {
+      "bytes": 6471,
+      "sha256": "c9ebc215e3f0ac0978b53ec47a17a53bd80822c5fa40e93fd80fd33cc7a11a0a"
+    },
+    "sensitivity_f.csv": {
+      "bytes": 5072,
+      "sha256": "d6bd8a9ac59ee9f5efbc77bf727fec0250f1c02a5c61e4a7b5ca83d7c765a447"
+    },
+    "sensitivity_fixed_effect.csv": {
+      "bytes": 1880,
+      "sha256": "3e0ba325e1e2fe2dd981db1b1eef5a6b4437898e1cdb6aef0d64103423b28a61"
+    },
+    "sensitivity_g.csv": {
+      "bytes": 5622,
+      "sha256": "5e192a6b8f8dfeb967c1911ade6696fecb5fa2a9476b0d16dd885a20a35f74d7"
+    },
+    "sensitivity_particulate_concentration.csv": {
+      "bytes": 2771,
+      "sha256": "4a5072abc2339674ed03dc7a443eb5b07ab689fec6805fcb17220f4cf0372942"
+    },
+    "single_factor_monte_carlo.py": {
+      "bytes": 35064,
+      "sha256": "14db3704f94231ef7090bbebeb52a5ce1cfda91432c362e6749de502ae8fa3a7"
+    },
+    "trend_extrapolation_monte_carlo.py": {
+      "bytes": 35064,
+      "sha256": "14db3704f94231ef7090bbebeb52a5ce1cfda91432c362e6749de502ae8fa3a7"
+    },
+    "validation_report.json": {
+      "bytes": 1044,
+      "sha256": "d8e7545695643346db5d8be879977e20a3c655797088db6c2bde89c5924c59dd"
+    },
+    "癌症特异性死亡逐因素蒙特卡洛分析说明.md": {
+      "bytes": 1528,
+      "sha256": "c021c6ffc9d433be4276596643ac55ac87426919813f27c2d5469d86d341071c"
+    },
+    "癌症特异性死亡逐因素蒙特卡洛结果.xlsx": {
+      "bytes": 164315,
+      "sha256": "befa450e19080d26e0d4bd94b5646654a5585498f8a69cbb9e783330232cb3bf"
+    }
+  }
+}

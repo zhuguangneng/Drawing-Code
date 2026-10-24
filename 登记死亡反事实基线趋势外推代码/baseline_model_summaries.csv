@@ -1,0 +1,5 @@
+﻿model_code,model_zh,baseline_deaths_median,baseline_deaths_lower_2_5,baseline_deaths_upper_97_5
+quasi_poisson_primary,泊松对数线性率趋势（Pearson离散度修正，主分析）,997.2276235945798,834.3900687617856,1189.2511249370318
+ordinary_poisson,普通泊松对数线性率趋势,997.4700092727984,937.5101335385639,1060.6293083209646
+linear_count,登记死亡数线性趋势,921.1326402081681,788.8598003134664,1052.3367274622633
+log_linear_rate,粗死亡率对数线性趋势,984.9615510705696,802.3311089574526,1209.326433498809
