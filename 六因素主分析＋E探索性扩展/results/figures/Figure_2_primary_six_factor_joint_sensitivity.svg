@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="2100" viewBox="0 0 3000 2100" role="img" aria-labelledby="figure-title figure-desc">
+<title id="figure-title">Primary six-factor joint increment and key sensitivity analyses</title>
+<desc id="figure-desc">Forest plot of the primary six-factor joint model excluding exploratory particulate-matter exposure. The exploratory seven-factor extension including particulate matter is displayed separately.</desc>
+<rect x="0" y="0" width="3000" height="2100" fill="#FFFFFF"/>
+<text x="1500" y="65" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" fill="#17365D">Primary Six-Factor Joint Increment and Key Sensitivity Analyses</text>
+<text x="1500" y="125" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#5B6573">A, D, H, P, C, and T in the primary model; E added only as an exploratory extension</text>
+<line x1="1080.000" y1="205.0" x2="1080.000" y2="1745.0" stroke="#E3E7EB" stroke-width="2"/>
+<text x="1080" y="1790" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#4B5563">0</text>
+<line x1="1187.273" y1="205.0" x2="1187.273" y2="1745.0" stroke="#E3E7EB" stroke-width="2"/>
+<text x="1187.27" y="1790" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#4B5563">50</text>
+<line x1="1294.545" y1="205.0" x2="1294.545" y2="1745.0" stroke="#E3E7EB" stroke-width="2"/>
+<text x="1294.55" y="1790" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#4B5563">100</text>
+<line x1="1401.818" y1="205.0" x2="1401.818" y2="1745.0" stroke="#E3E7EB" stroke-width="2"/>
+<text x="1401.82" y="1790" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#4B5563">150</text>
+<line x1="1509.091" y1="205.0" x2="1509.091" y2="1745.0" stroke="#E3E7EB" stroke-width="2"/>
+<text x="1509.09" y="1790" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#4B5563">200</text>
+<line x1="1616.364" y1="205.0" x2="1616.364" y2="1745.0" stroke="#E3E7EB" stroke-width="2"/>
+<text x="1616.36" y="1790" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#4B5563">250</text>
+<line x1="1723.636" y1="205.0" x2="1723.636" y2="1745.0" stroke="#E3E7EB" stroke-width="2"/>
+<text x="1723.64" y="1790" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#4B5563">300</text>
+<line x1="1830.909" y1="205.0" x2="1830.909" y2="1745.0" stroke="#E3E7EB" stroke-width="2"/>
+<text x="1830.91" y="1790" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#4B5563">350</text>
+<line x1="1938.182" y1="205.0" x2="1938.182" y2="1745.0" stroke="#E3E7EB" stroke-width="2"/>
+<text x="1938.18" y="1790" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#4B5563">400</text>
+<line x1="2045.455" y1="205.0" x2="2045.455" y2="1745.0" stroke="#E3E7EB" stroke-width="2"/>
+<text x="2045.45" y="1790" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#4B5563">450</text>
+<line x1="2152.727" y1="205.0" x2="2152.727" y2="1745.0" stroke="#E3E7EB" stroke-width="2"/>
+<text x="2152.73" y="1790" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#4B5563">500</text>
+<line x1="2260.000" y1="205.0" x2="2260.000" y2="1745.0" stroke="#E3E7EB" stroke-width="2"/>
+<text x="2260" y="1790" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#4B5563">550</text>
+<line x1="1080.000" y1="195.000" x2="1080.000" y2="1745.000" stroke="#8B1E1E" stroke-width="5"/>
+<text x="45" y="257" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#1F2937">Primary six-factor model</text>
+<line x1="1275.053" y1="257.0" x2="1694.690" y2="257.0" stroke="#17365D" stroke-width="10"/>
+<line x1="1275.053" y1="243.0" x2="1275.053" y2="271.0" stroke="#17365D" stroke-width="4"/>
+<line x1="1694.690" y1="243.0" x2="1694.690" y2="271.0" stroke="#17365D" stroke-width="4"/>
+<circle cx="1452.167" cy="257.0" r="15" fill="#17365D"/>
+<text x="2300" y="257" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#1F2937">173.5 (90.9–286.5)</text>
+<text x="45" y="379" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#1F2937">0% D residual effect</text>
+<line x1="1223.697" y1="379.0" x2="1540.269" y2="379.0" stroke="#5B9BD5" stroke-width="10"/>
+<line x1="1223.697" y1="365.0" x2="1223.697" y2="393.0" stroke="#5B9BD5" stroke-width="4"/>
+<line x1="1540.269" y1="365.0" x2="1540.269" y2="393.0" stroke="#5B9BD5" stroke-width="4"/>
+<circle cx="1359.588" cy="379.0" r="12" fill="#5B9BD5"/>
+<text x="2300" y="379" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#1F2937">130.3 (67.0–214.5)</text>
+<text x="45" y="501" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#1F2937">100% D residual effect</text>
+<line x1="1314.296" y1="501.0" x2="1923.508" y2="501.0" stroke="#5B9BD5" stroke-width="10"/>
+<line x1="1314.296" y1="487.0" x2="1314.296" y2="515.0" stroke="#5B9BD5" stroke-width="4"/>
+<line x1="1923.508" y1="487.0" x2="1923.508" y2="515.0" stroke="#5B9BD5" stroke-width="4"/>
+<circle cx="1562.114" cy="501.0" r="12" fill="#5B9BD5"/>
+<text x="2300" y="501" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#1F2937">224.7 (109.2–393.2)</text>
+<text x="45" y="623" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#1F2937">Independent overlap structure</text>
+<line x1="1289.678" y1="623.0" x2="1734.310" y2="623.0" stroke="#5B9BD5" stroke-width="10"/>
+<line x1="1289.678" y1="609.0" x2="1289.678" y2="637.0" stroke="#5B9BD5" stroke-width="4"/>
+<line x1="1734.310" y1="609.0" x2="1734.310" y2="637.0" stroke="#5B9BD5" stroke-width="4"/>
+<circle cx="1476.759" cy="623.0" r="12" fill="#5B9BD5"/>
+<text x="2300" y="623" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#1F2937">184.9 (97.7–305.0)</text>
+<text x="45" y="745" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#1F2937">Evidence-calibrated low overlap</text>
+<line x1="1282.422" y1="745.0" x2="1712.261" y2="745.0" stroke="#5B9BD5" stroke-width="10"/>
+<line x1="1282.422" y1="731.0" x2="1282.422" y2="759.0" stroke="#5B9BD5" stroke-width="4"/>
+<line x1="1712.261" y1="731.0" x2="1712.261" y2="759.0" stroke="#5B9BD5" stroke-width="4"/>
+<circle cx="1463.709" cy="745.0" r="12" fill="#5B9BD5"/>
+<text x="2300" y="745" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#1F2937">178.8 (94.3–294.7)</text>
+<text x="45" y="867" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#1F2937">Evidence-calibrated high overlap</text>
+<line x1="1272.400" y1="867.0" x2="1688.109" y2="867.0" stroke="#5B9BD5" stroke-width="10"/>
+<line x1="1272.400" y1="853.0" x2="1272.400" y2="881.0" stroke="#5B9BD5" stroke-width="4"/>
+<line x1="1688.109" y1="853.0" x2="1688.109" y2="881.0" stroke="#5B9BD5" stroke-width="4"/>
+<circle cx="1447.737" cy="867.0" r="12" fill="#5B9BD5"/>
+<text x="2300" y="867" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#1F2937">171.4 (89.7–283.4)</text>
+<text x="45" y="989" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#1F2937">Treatment endpoint transport λT = 0.5</text>
+<line x1="1216.934" y1="989.0" x2="1579.993" y2="989.0" stroke="#5B9BD5" stroke-width="10"/>
+<line x1="1216.934" y1="975.0" x2="1216.934" y2="1003.0" stroke="#5B9BD5" stroke-width="4"/>
+<line x1="1579.993" y1="975.0" x2="1579.993" y2="1003.0" stroke="#5B9BD5" stroke-width="4"/>
+<circle cx="1371.198" cy="989.0" r="12" fill="#5B9BD5"/>
+<text x="2300" y="989" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#1F2937">135.7 (63.8–233.0)</text>
+<text x="45" y="1111" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#1F2937">Treatment endpoint transport λT = 0</text>
+<line x1="1161.271" y1="1111.0" x2="1484.328" y2="1111.0" stroke="#5B9BD5" stroke-width="10"/>
+<line x1="1161.271" y1="1097.0" x2="1161.271" y2="1125.0" stroke="#5B9BD5" stroke-width="4"/>
+<line x1="1484.328" y1="1097.0" x2="1484.328" y2="1125.0" stroke="#5B9BD5" stroke-width="4"/>
+<circle cx="1299.614" cy="1111.0" r="12" fill="#5B9BD5"/>
+<text x="2300" y="1111" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#1F2937">102.4 (37.9–188.5)</text>
+<text x="45" y="1233" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#1F2937">Fixed-effect estimates for A/D/H/P/C</text>
+<line x1="1302.626" y1="1233.0" x2="1557.416" y2="1233.0" stroke="#5B9BD5" stroke-width="10"/>
+<line x1="1302.626" y1="1219.0" x2="1302.626" y2="1247.0" stroke="#5B9BD5" stroke-width="4"/>
+<line x1="1557.416" y1="1219.0" x2="1557.416" y2="1247.0" stroke="#5B9BD5" stroke-width="4"/>
+<circle cx="1414.380" cy="1233.0" r="12" fill="#5B9BD5"/>
+<text x="2300" y="1233" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#1F2937">155.9 (103.8–222.5)</text>
+<text x="45" y="1355" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#1F2937">Extreme: full multiplicative model</text>
+<line x1="1392.378" y1="1355.0" x2="2177.145" y2="1355.0" stroke="#5B9BD5" stroke-width="10"/>
+<line x1="1392.378" y1="1341.0" x2="1392.378" y2="1369.0" stroke="#5B9BD5" stroke-width="4"/>
+<line x1="2177.145" y1="1341.0" x2="2177.145" y2="1369.0" stroke="#5B9BD5" stroke-width="4"/>
+<circle cx="1705.119" cy="1355.0" r="12" fill="#5B9BD5"/>
+<text x="2300" y="1355" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#1F2937">291.4 (145.6–511.4)</text>
+<text x="45" y="1477" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#1F2937">Extreme: additive excess risk</text>
+<line x1="1340.301" y1="1477.0" x2="1784.566" y2="1477.0" stroke="#5B9BD5" stroke-width="10"/>
+<line x1="1340.301" y1="1463.0" x2="1340.301" y2="1491.0" stroke="#5B9BD5" stroke-width="4"/>
+<line x1="1784.566" y1="1463.0" x2="1784.566" y2="1491.0" stroke="#5B9BD5" stroke-width="4"/>
+<circle cx="1535.315" cy="1477.0" r="12" fill="#5B9BD5"/>
+<text x="2300" y="1477" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#1F2937">212.2 (121.3–328.4)</text>
+<text x="45" y="1599" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#1F2937">Exploratory addition of E (Δx = 4.1 μg/m³)</text>
+<line x1="1361.442" y1="1599.0" x2="1920.149" y2="1599.0" stroke="#C55A11" stroke-width="10"/>
+<line x1="1361.442" y1="1585.0" x2="1361.442" y2="1613.0" stroke="#C55A11" stroke-width="4"/>
+<line x1="1920.149" y1="1585.0" x2="1920.149" y2="1613.0" stroke="#C55A11" stroke-width="4"/>
+<circle cx="1594.559" cy="1599.0" r="12" fill="#C55A11"/>
+<text x="2300" y="1599" text-anchor="start" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#1F2937">239.8 (131.2–391.6)</text>
+<line x1="1080.000" y1="1745.000" x2="2260.000" y2="1745.000" stroke="#4B5563" stroke-width="3"/>
+<text x="1670" y="1840" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400" fill="#374151">Paired increment relative to the common baseline (deaths; median and 95% UI)</text>
+<text x="1500" y="1950" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#5B6573">E is excluded from the primary model and shown only in the orange exploratory extension.</text>
+</svg>

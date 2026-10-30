@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "checks": {
+    "primary_increment_173_5": true,
+    "primary_joint_deaths_1172_8": true,
+    "primary_relative_change_17_44": true,
+    "exploratory_E_increment_239_8": true,
+    "64_primary_pattern_probabilities_sum_to_1": true,
+    "validation_report_passed": true
+  }
+}

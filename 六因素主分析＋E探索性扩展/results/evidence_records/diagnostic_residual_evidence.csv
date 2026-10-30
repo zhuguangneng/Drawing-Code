@@ -1,0 +1,7 @@
+﻿evidence,evidence_class,finding,implication,supports_kappa,url_or_path
+现有D癌症特异性Meta分析,直接效应证据的调整变量审计,4项研究均未明确控制治疗延迟/中断T,合并HR 1.4008不能解释为控制T后的D直接效应,不能定量选择0、0.5或1,D:/癌症pdf/Health Services and Systems/Delayed diagnosis/HR_Meta_Analysis_Cancer_Specific_2026-10-17/included_HR_cancer_specific.csv
+"Zhao et al., Cancer Medicine, 2026",独立路径旁证,N=450；治疗延迟>1月仅21例；诊断延迟>5月与OS/DFS相关，但CSS单变量HR 1.41且不显著,D可能在几乎没有T时仍通过分期等路径作用，但未给出D与T并存时的控制直接效应,支持kappa>0的可能性，不支持具体百分比,https://pmc.ncbi.nlm.nih.gov/articles/PMC13140271/
+"Gade et al., JCO Global Oncology, 2026",D-only存在性证据,220例诊断延迟中91例没有后续治疗延迟/中断,D与T并非同一事件，但不能据此估计并存时D的残余死亡效应,支持结构上保留D独立路径,https://ascopubs.org/doi/10.1200/GO-25-00765
+"Lung Cancer Under Siege in Spain, 2025",同一Cox模型同时纳入D和T,全因死亡模型中，诊断间隔≥30天HR 0.78（95%CI 0.54–1.14），治疗间隔≥42天HR 0.90（95%CI 0.65–1.24）,在同一模型控制两种间隔后未观察到显著独立效应；可支持κ=0作为合理下界，但不能证明D效应必为0,支持κ=0下界；结局为全因死亡且CI较宽，不足以确定主值,https://pmc.ncbi.nlm.nih.gov/articles/PMC12384519/
+"Hollenbeck et al., Cancer, 2010",癌症特异性独立路径旁证,膀胱癌诊断延迟9–12月对比<3月：CSS HR 1.34（95%CI 1.20–1.50）；进一步调整分期/分级后HR 1.29（1.14–1.45），但未控制T,分期/分级调整后关联仍存在，提示D可能有未被分期完全解释的路径；因未调T，不能当作D在T后的控制直接效应,支持κ>0的可能性，不支持具体比例,https://acsjournals.onlinelibrary.wiley.com/doi/full/10.1002/cncr.25310
+系统检索结论,证据缺口,未找到直接报告D与T并存时控制直接效应或中介比例的癌症研究,不能把0%、50%或100%称为经验估计,主分析kappa=0.5为对称中心预设；kappa=0与1为结构敏感性,见search_log.csv

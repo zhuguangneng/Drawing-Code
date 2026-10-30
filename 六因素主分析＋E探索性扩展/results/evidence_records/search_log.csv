@@ -1,0 +1,6 @@
+﻿search_topic,sources_checked,usable_record,decision
+A-T条件关联,PLOS ONE Gaza permit cohort；BMJ Global Health pediatric Gaza cohort,Bouquet 655/3816；Massad 67/271或68/271；均无可直接代入的P(T|A),P(T|A)=1为纯结构嵌套假设；655/3816只用于A量级旁证
+D-T条件关联,Gade JCO Global Oncology；Rao JNCCN,Gade完整2×2；Rao调整OR1.41,Gade OR4.4299为主；CI为低/高；Rao作保守敏感性
+H-T条件关联,RCR 2023 clinical oncology workforce census,60/60中心；92%至少出现RT延迟，95%至少出现SACT延迟,92%主、95%高、独立低；明确为机构层代理而非患者条件概率
+C-T条件关联,Tamirat registry cohort；Han cohort；Gaza Mapping,Tamirat Model1 aOR2.54；Model2纳入诊断机构aOR1.23；Han 32.4% vs19.4%；Mapping 32/90无交叉,2.54作总关联主代理；1.23单列保守敏感性；暴露是非英语CALD而非直接沟通测量
+D在T后残余效应,4项D Meta原始调整变量；Zhao；Gade；Spain肺癌同一Cox模型；Hollenbeck膀胱癌CSS；中介/控制直接效应检索,Spain模型支持κ=0下界；Hollenbeck支持κ>0可能性；仍无直接中介百分比,kappa=0.5仅为中心预设；0和1必须报告

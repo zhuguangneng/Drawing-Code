@@ -1,0 +1,29 @@
+{
+  "analysis_version": "joint-effect-v3.0-primary-six-factor-e-exploratory",
+  "simulation_seed": 20260921,
+  "simulation_draws": 100000,
+  "authoritative_source": "C:\\Users\\xc\\Documents\\Codex\\2026-10-13\\wo\\六因素主分析＋E探索性扩展\\single_factor_support.py",
+  "authoritative_source_sha256": "8c3c32a86e7f15237e28b52a3b07c855974ed4aad51ac4017a6f1380fb9f8416",
+  "authoritative_results_source": "C:\\Users\\xc\\Documents\\Codex\\2026-10-13\\wo\\六因素主分析＋E探索性扩展\\authoritative_analysis_results.json",
+  "authoritative_results_source_sha256": "ac23190a42160d78c6e610ad37ae8b782bdf2f5798c080ba1ab1367f4083df4f",
+  "outputs_sha256": {
+    "analysis_config.json": "9db42ebf00e789b2f695aed1c633e2cbd1dfe2a61a049f8e3b67f08e1272e37a",
+    "analysis_results.json": "59c8d9f1fb9798320bfde1f43c98d458151f3542e41a73a96363af572cac7ca5",
+    "baseline_models.csv": "f1d7091d140247a3d38cb1b55bf9636dac816c710fa5db52b1d7eb5d8d450fbc",
+    "factor_inputs.csv": "1c39149be2c6f32e95e3a1f30f17b3116a4999fd4cde1199f8896005e6aae1f6",
+    "joint_scenarios.csv": "063c165a8ff4f653ed3e46408bb437c38e91865a3fc99834fc5804e900848754",
+    "overlap_constraints.csv": "ea1a96712c9e2342a1b4322803dde6d9a2cbe722967790ca4a28cb68bdc6d0fc",
+    "pattern_probabilities.csv": "0b8e396ec1efe48789e451b1489a54cc050840dd7e3a840b63fbe8889362a40e",
+    "shapley_contributions.csv": "ca0e4b187c9c73fa120a3169f3835f4f3eeb5db08e1b95c20b96496e0f5a1cb2",
+    "shapley_contributions_exploratory_with_e.csv": "cf192d31e7ebb7fda3fa0b01e83802680214007d1182510efe634fcfcf0fb2d9",
+    "treatment_only_reference.csv": "296d3e19eca9c0d9c4039c242c62a295df37b5e7e17e9b672786c547db394cbb",
+    "validation_report.json": "240f2fe04a9b54433a45ba321d2c6c811aa1ea26559faba1525dae22fbeb4a3f",
+    "README.md": "078a75e655567e16f0e25a5e8345af50965be13398351b4c8ad6e4c3b00cf3ba",
+    "joint_effect_monte_carlo_evidence_calibrated.py": "b8f9f94041273f3d98c427cfa31356950cdd274a61281c44f0acee5dcb489ded",
+    "evidence_records/conditional_overlap_evidence.csv": "f683aa6bedede3d1e10f1de224f79d1b4c723c13af709ca4083b3db7c010f808",
+    "evidence_records/diagnostic_residual_evidence.csv": "30d285d24e7a8f45bba380224939d8fe61eb1b7a38ac48d4bb14b09d687ad347",
+    "evidence_records/search_log.csv": "952fb0ec80f2efaaf6bb436a5b23fb9d72dd2fe7e43cb8beb8737ceb158eb104",
+    "evidence_records/parameter_decisions.csv": "b3a7d5963df85dc22eee336de3e38c58186dfab386164f2d9cff05b303425457",
+    "evidence_records/README.md": "0b7a88ce9a7540f9861471d7d2256e14177371c279a61410f67ccbfd9b9e5430"
+  }
+}

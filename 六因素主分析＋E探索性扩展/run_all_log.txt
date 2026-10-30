@@ -1,0 +1,159 @@
+{
+  "output_dir": "C:\\Users\\xc\\Documents\\Codex\\2026-10-13\\wo\\��������������E̽������չ\\results",
+  "validation": {
+    "pattern_probability_sum": 1.0,
+    "minimum_pattern_probability": 0.0,
+    "conditional_probability_min": 0.0,
+    "conditional_probability_max": 0.8586666666666666,
+    "max_abs_marginal_error": 1.1102230246251565e-16,
+    "marginal_errors": {
+      "A": 2.7755575615628914e-17,
+      "D": 0.0,
+      "H": 1.1102230246251565e-16,
+      "P": 0.0,
+      "C": 0.0,
+      "T": 0.0
+    },
+    "max_abs_pair_error": 1.1102230246251565e-16,
+    "pair_errors": {
+      "AT": 2.7755575615628914e-17,
+      "DT": 0.0,
+      "HT": 1.1102230246251565e-16,
+      "CT": 0.0
+    },
+    "all_reported_scenarios_constraint_max_abs_error": 2.220446049250313e-16,
+    "all_reported_scenarios_minimum_pattern_probability": 0.0,
+    "all_reported_scenarios_conditional_probability_min": 0.0,
+    "all_reported_scenarios_conditional_probability_max": 1.0,
+    "treatment_only_reduction_max_abs_error": 0.0,
+    "neutral_effect_max_abs_error": 0.0,
+    "fixed_distribution_full_coalition_max_abs_error": 0.0,
+    "additive_overlap_invariance_max_abs_error": 0.0,
+    "additive_minimum_pattern_rr": 0.6071226287409627,
+    "additive_nonpositive_pattern_draw_count": 0,
+    "additive_nonpositive_pattern_draw_percent": 0.0,
+    "shapley_additivity_max_abs_error": 1.7053025658242404e-13,
+    "exploratory_shapley_additivity_max_abs_error": 2.2737367544323206e-13,
+    "authoritative_baseline_summary_errors": {
+      "lower_2_5": 1.1368683772161603e-13,
+      "median": 0.0,
+      "upper_97_5": 0.0
+    },
+    "authoritative_baseline_summary_max_abs_error": 1.1368683772161603e-13,
+    "baseline_first_three_float_hex": [
+      "0x1.e6d2800ff41c1p+9",
+      "0x1.f1dde6d9b40ebp+9",
+      "0x1.d3c30e8b50d2dp+9"
+    ],
+    "monte_carlo_block_summaries": [
+      {
+        "block": 1,
+        "lower_2_5": 88.98476798572732,
+        "median": 174.017663852126,
+        "upper_97_5": 288.61933292186086
+      },
+      {
+        "block": 2,
+        "lower_2_5": 91.57887077204093,
+        "median": 174.1301492060747,
+        "upper_97_5": 287.16247918623816
+      },
+      {
+        "block": 3,
+        "lower_2_5": 92.80203942448951,
+        "median": 172.3568994214716,
+        "upper_97_5": 286.08563701380524
+      },
+      {
+        "block": 4,
+        "lower_2_5": 91.0690932870543,
+        "median": 173.1764127645386,
+        "upper_97_5": 287.1205201009382
+      },
+      {
+        "block": 5,
+        "lower_2_5": 91.3759625885138,
+        "median": 174.30523768249714,
+        "upper_97_5": 289.0869408099648
+      },
+      {
+        "block": 6,
+        "lower_2_5": 91.58679802443551,
+        "median": 173.26355406350336,
+        "upper_97_5": 283.18352143904895
+      },
+      {
+        "block": 7,
+        "lower_2_5": 91.34527310942553,
+        "median": 174.54718185158197,
+        "upper_97_5": 285.8417907330374
+      },
+      {
+        "block": 8,
+        "lower_2_5": 90.93755222716146,
+        "median": 173.16416144152328,
+        "upper_97_5": 286.32359896636984
+      },
+      {
+        "block": 9,
+        "lower_2_5": 89.18071053489057,
+        "median": 173.26729769064465,
+        "upper_97_5": 286.94675858280897
+      },
+      {
+        "block": 10,
+        "lower_2_5": 89.85660135007676,
+        "median": 172.4345326981973,
+        "upper_97_5": 285.49943944266414
+      }
+    ],
+    "all_scenarios_finite": true,
+    "all_wartime_rr_positive": true,
+    "status": "PASS"
+  },
+  "main": {
+    "joint_deaths_lower_2_5": 965.3662470275857,
+    "joint_deaths_median": 1172.8295734395044,
+    "joint_deaths_upper_97_5": 1424.5674708605554,
+    "additional_deaths_lower_2_5": 90.91439052012444,
+    "additional_deaths_median": 173.4678648840018,
+    "additional_deaths_upper_97_5": 286.5078495260206,
+    "percent_change_lower_2_5": 9.321474545024039,
+    "percent_change_median": 17.438336929747834,
+    "percent_change_upper_97_5": 27.701351269746304,
+    "beyond_treatment_deaths_lower_2_5": 44.59712255245601,
+    "beyond_treatment_deaths_median": 121.5607922653794,
+    "beyond_treatment_deaths_upper_97_5": 225.41603211209767
+  }
+}
+{
+  "mean_rate": 33.244230743552336,
+  "point_baseline": 740.19742496672,
+  "baseline_summary": {
+    "lower_2_5": 573.7632641897765,
+    "median": 739.8585388143863,
+    "upper_97_5": 906.5728764454345
+  },
+  "primary_increment": {
+    "lower": 65.52766502495682,
+    "median": 127.76802872372627,
+    "upper": 215.00489939129062
+  },
+  "primary_deaths": {
+    "lower": 667.3212870542693,
+    "median": 869.6333189513023,
+    "upper": 1082.2454726960682
+  }
+}
+C:\Users\xc\Documents\Codex\2026-10-13\wo\��������������E̽������չ\results\figures\Figure_2_primary_six_factor_joint_sensitivity.svg
+{
+  "status": "PASS",
+  "checks": {
+    "primary_increment_173_5": true,
+    "primary_joint_deaths_1172_8": true,
+    "primary_relative_change_17_44": true,
+    "exploratory_E_increment_239_8": true,
+    "64_primary_pattern_probabilities_sum_to_1": true,
+    "validation_report_passed": true
+  }
+}
